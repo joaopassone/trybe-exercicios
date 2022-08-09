@@ -144,4 +144,4 @@ Este repositório contará com todos os exercícios que forem executados por [@j
 
 #### Bloco 18 - Projeto App de Receitas
 
-- [ ] 8.1 - Projeto - App de Receitas
+- [ ] 18.1 - Projeto - App de Receitas
