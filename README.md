@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contará com todos os exercícios que forem executados por mim durante o curso de Desenvolvimento Web.
+Este repositório contará com todos os exercícios que forem executados por @joaopassone durante o curso de Desenvolvimento Web.
 
 🚀 🚀 🚀
 
