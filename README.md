@@ -20,7 +20,7 @@ Este repositório contará com todos os exercícios que forem executados por [@j
 
 - [X] 2.1 - Git e GitHub: O que é e para que serve?
 - [X] 2.2 - Git e GitHub: Entendendo os comandos
-- [ ] 2.3 - Internet: Como ela funciona?
+- [X] 2.3 - Internet: Como ela funciona?
 
 #### Bloco 3 - Introdução à HTML e CSS
 
