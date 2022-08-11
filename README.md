@@ -256,3 +256,47 @@ Este repositório contará com todos os exercícios que forem executados por [@j
 
 - [ ] 32.1 - Dia 1 - VPS
 - [ ] 32.2 - Dia 2
+
+## :hourglass_flowing_sand: Ciência da Computação
+
+#### Bloco 33 - Introdução à Python
+
+- [ ] 33.1 - Introdução - Ciência da Computação
+- [ ] 33.1 - Aprendendo Python
+- [ ] 33.2 - Entrada e Saída de Dados
+- [ ] 33.3 - Testes
+- [ ] 33.4 - Projeto - Job Insights
+
+#### Bloco 34 - Padrões de Projeto
+
+- [ ] 34.1 - P.O.O em Python
+- [ ] 34.2 - Padrões - Iterator, Adapter, Strategy
+- [ ] 34.3 - Padrões - Decorator, Observer, Factory
+- [ ] 34.4 - Projeto - Relatórios de Estoque
+
+#### Bloco 35 - Redes e Raspagem de Dados
+
+- [ ] 35.1 - Arquitetura de redes, ferramentas e segurança
+- [ ] 35.2 - Raspagem de Dados
+- [ ] 35.3 - Projeto - Tech news
+
+#### Bloco 36 - Algoritmos
+
+- [ ] 36.1 - Complexidade de Algoritmos
+- [ ] 36.2 - Recursividade e Estratégias para solução de problemas
+- [ ] 36.3 - Algoritmos de ordenação e busca
+- [ ] 36.4 - Projeto - Algoritmos
+
+#### Bloco 37 - Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+
+- [ ] 37.1 - Arquitetura de Computadores
+- [ ] 37.2 - Arrays
+- [ ] 37.3 - Nó e Listas Encadeadas
+- [ ] 37.4 - Pilhas e Filas
+- [ ] 37.5 - Projeto - TING - Trybe Is Not Google
+
+#### Bloco 38 - Estrutura de DAdos II: Hashmaps e Sets
+
+- [ ] 38.1 - Hashmap e Dict
+- [ ] 38.2 - Set
+- [ ] 38.3 - Projeto - Restaurant Orders
