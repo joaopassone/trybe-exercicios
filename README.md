@@ -295,7 +295,7 @@ Este repositório contará com todos os exercícios que forem executados por [@j
 - [ ] 37.4 - Pilhas e Filas
 - [ ] 37.5 - Projeto - TING - Trybe Is Not Google
 
-#### Bloco 38 - Estrutura de DAdos II: Hashmaps e Sets
+#### Bloco 38 - Estrutura de Dados II: Hashmaps e Sets
 
 - [ ] 38.1 - Hashmap e Dict
 - [ ] 38.2 - Set
