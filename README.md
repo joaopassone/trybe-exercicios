@@ -24,8 +24,8 @@ Este repositório contará com todos os exercícios que forem executados por [@j
 
 #### Bloco 3 - Introdução à HTML e CSS
 
-- [ ] 3.1 - Introdução à HTML e CSS
-- [ ] 3.1 - HTML e CSS - Estruturas de página
+- [X] 3.1 - Introdução à HTML e CSS
+- [X] 3.1 - HTML e CSS - Estruturas de página
 - [ ] 3.2 - HTML e CSS - Primeiros passos em CSS
 - [ ] 3.3 - HTML e CSS - Seletores e posicionamento
 - [ ] 3.4 - HTML Semântico
