@@ -1,0 +1,38 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+ul {
+    background-color: aqua;
+    line-height: 30px;
+}
+
+.bg-color {
+    background-color: bisque;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+    font-style: italic;
+}
+
+body {
+    font-size: 16px;
+}
+
+#yellow-item {
+    background-color: yellow;
+}
+
+#red-item {
+    background-color: red;
+}
+
+#brown-item {
+    background-color: brown;
+}
