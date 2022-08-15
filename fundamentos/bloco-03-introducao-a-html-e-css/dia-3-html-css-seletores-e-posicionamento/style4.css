@@ -1,0 +1,57 @@
+div {
+    height: 50px;
+    margin: 3px;
+    padding: 15px;
+    padding-bottom: 25px;
+}
+
+div:hover {
+    border: 2px solid black;
+}
+
+#div-primaria {
+    background-color: red;
+    vertical-align: middle;
+}
+
+#div-secundaria {
+    background-color: pink;
+}
+
+#div-complementar {
+    background-color: gray;
+    height: 80px;
+    padding-top: 45px;
+}
+
+#div-escura {
+    background-color: brown;
+}
+
+#div-clara {
+    background-color: lightsalmon;
+}
+
+#h3-primaria {
+    color: yellow;
+}
+
+#h3-secundaria {
+    color: red;
+}
+
+#h3-complementar {
+    color: black;
+}
+
+#h3-escura {
+    color: beige;
+}
+
+#h3-clara {
+    color: brown;
+}
+
+#h3-primaria, #h3-complementar, #h3-clara {
+    font-style: italic;
+}
