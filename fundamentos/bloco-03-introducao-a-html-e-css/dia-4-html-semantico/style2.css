@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    background-color: lightgreen;
+}
+
+article {
+    display: inline-block;
+    width: 80%;
+}
+
+aside {
+    display: inline-block;
+    vertical-align: top;
+    border: 2px solid green;
+    width: 18%;
+    padding-bottom: 30px;
+    transform: translate(0, 200px);
+}
+
+img {
+    width: 60%;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'DynaPuff', cursive;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+    background-color: green;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+}
+
+table {
+    margin: auto;
+}
+
+table td {
+    width: 500px;
+    border: 1px solid black;
+}
+
+#table-header {
+    font-weight: bold;
+    background-color: green;
+    color: white;
+}
+
+#menu {
+    background-color: green;
+}
+
+#menu li {
+    display: inline-block;
+    font-size: 20px;
+    line-height: 70px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: white;
+    padding: 20px 100px;
+}
+
+#menu li a:hover {
+    background-color: lightgreen;
+    color: black;
+}
+
+#stomatopoda {
+    width: 500px;
+}
+
+#ref li {
+    list-style: none;
+    display: inline;
+}
+
+#ref li a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0 50px;
+    color: black;
+}
+
+footer h3 {
+    font-size: 12px;
+    background-color: transparent;
+    color: black;
+}
