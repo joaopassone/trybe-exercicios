@@ -28,8 +28,8 @@ Este repositório contará com todos os exercícios que forem executados por [@j
 - [X] 3.1 - HTML e CSS - Estruturas de página
 - [X] 3.2 - HTML e CSS - Primeiros passos em CSS
 - [X] 3.3 - HTML e CSS - Seletores e posicionamento
-- [ ] 3.4 - HTML Semântico
-- [ ] 3.5 - Projeto - Lessons Learned
+- [X] 3.4 - HTML Semântico
+- [X] 3.5 - Projeto - Lessons Learned
 
 #### Bloco 4 - Introdução à JavaScript e Lógica de Programação
 
