@@ -33,8 +33,8 @@ Este repositório contará com todos os exercícios que forem executados por [@j
 
 #### Bloco 4 - Introdução à JavaScript e Lógica de Programação
 
-- [ ] 4.1 - Introdução - JavaScript
-- [ ] 4.1 - JavaScript - Primeiros passos
+- [X] 4.1 - Introdução - JavaScript
+- [X] 4.1 - JavaScript - Primeiros passos
 - [ ] 4.2 - JavaScript - Array e loop For
 - [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [ ] 4.4 - JavaScript - Objetos e funcôes 
