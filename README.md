@@ -37,7 +37,7 @@ Este repositório contará com todos os exercícios que forem executados por [@j
 - [X] 4.1 - JavaScript - Primeiros passos
 - [X] 4.2 - JavaScript - Array e loop For
 - [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.4 - JavaScript - Objetos e funcôes 
+- [X] 4.4 - JavaScript - Objetos e funcôes 
 - [ ] 4.5 - Projeto - Playground Functions
 
 #### Bloco 5 - JavaScript: DOM, Eventos e Web Storage
