@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício 5.2</title>
+    <style>
+      section {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+
+      .main-content .left-content {
+        background-color: green;
+        width: 60%;
+        margin-left: 0;
+        margin-right: auto;
+      }
+
+      .main-content .left-content .small-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 100%;
+      }
+
+      .main-content .right-content {
+        background-color: blue;
+        width: 60%;
+        margin-left: auto;
+        margin-right: 0;
+      }
+
+      .main-content .description {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      // Exercício 1
+      let newElement = document.createElement('h1');
+      newElement.innerText = 'Exercício 5.2 - JavaScript DOM';
+      document.querySelector('body').appendChild(newElement);
+      // Exercício 2
+      newElement = document.createElement('main');
+      newElement.className = 'main-content';
+      document.querySelector('body').appendChild(newElement);
+      // Exercício 3
+      newElement = document.createElement('section');
+      newElement.className = 'center-content';
+      document.querySelector('main').appendChild(newElement);
+      // Exercício 4
+      newElement = document.createElement('p');
+      newElement.innerText = 'Que código lindo!';
+      document.querySelector('main section').appendChild(newElement);
+      // Exercício 5
+      newElement = document.createElement('section');
+      newElement.className = 'left-content';
+      document.querySelector('main').appendChild(newElement);
+      // Exercício 6
+      newElement = document.createElement('section');
+      newElement.className = 'right-content';
+      document.querySelector('main').appendChild(newElement);
+      // Exercício 7
+      newElement = document.createElement('img');
+      newElement.className = 'small-image';
+      newElement.src = 'https://picsum.photos/200';
+      document.querySelector('.left-content').appendChild(newElement);
+      // Exercício 8
+      newElement = document.createElement('ul');
+      document.querySelector('.right-content').appendChild(newElement);
+      let list = ['um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez'];
+      for (let i = 0; i < 10; i += 1) {
+        newListElement = document.createElement('li');
+        newListElement.innerText = list[i];
+        document.querySelector('.right-content ul').appendChild(newListElement);
+      }
+      // Exercício 9
+      for (let i = 0; i < 3; i += 1) {
+        newElement = document.createElement('h3');
+        document.querySelector('main').appendChild(newElement);
+      }
+
+      // Parte 2
+      // Exercício 1
+      document.querySelector('h1').className = 'title';
+      // Exercício 2
+      let h3List = document.querySelectorAll('main h3');
+      for (tags of h3List) {
+        tags.className = 'description';
+      }
+      // Exercício 3
+      newElement =  document.querySelector('.left-content')
+      document.querySelector('.main-content').removeChild(newElement);
+      // Exercício 4
+      document.querySelector('.right-content').style.margin = 'auto';
+      // Exercício 5
+      document.querySelector('.center-content').parentElement.style.backgroundColor = 'green';
+      // Exercício 6
+      document.querySelector('.right-content ul').lastElementChild.remove();
+      document.querySelector('.right-content ul').lastElementChild.remove();
+    </script>
+  </body>
+</html>
