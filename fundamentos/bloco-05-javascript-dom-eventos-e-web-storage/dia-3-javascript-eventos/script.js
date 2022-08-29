@@ -190,7 +190,7 @@ function addAppointment(appoint) {
     document.querySelector('.task-list').appendChild(newTask);
 }
 
-function appointment(event) {
+function appointment() {
     let input = document.querySelector('input');
     if (input.value == '') {
         alert('Escreva alguma coisa, jovem!');
