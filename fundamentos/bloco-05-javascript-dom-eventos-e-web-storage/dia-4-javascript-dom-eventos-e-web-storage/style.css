@@ -1,0 +1,17 @@
+* {
+  text-align: center;
+}
+
+button, input {
+  height: 30px;
+  vertical-align: middle;
+  margin: 10px 0;
+}
+
+input {
+  width: 100px;
+}
+
+button {
+  margin-right: 30px;
+}
