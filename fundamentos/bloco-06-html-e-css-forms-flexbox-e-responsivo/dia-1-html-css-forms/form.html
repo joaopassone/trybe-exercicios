@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário de Férias</title>
+</head>
+<body>
+  <form action="" method="get" id="form">
+    <label for="input-name">Nome Completo:
+      <input type="text" minlength="10" maxlength="40" id="input-name">
+    </label><br>
+    <label for="input-email">Email:
+      <input type="email" minlength="10" maxlength="50" id="input-email">
+    </label><br>
+    <label for="cidade">
+      <input type="radio" name="destino" id="cidade">Cidade
+    </label>
+    <label for="campo">
+      <input type="radio" name="destino" id="campo">Campo
+    </label>
+    <label for="praia">
+      <input type="radio" name="destino" id="praia">Praia
+    </label>
+    <label for="montanha">
+      <input type="radio" name="destino" id="montanha">Montanha
+    </label><br>
+    <label for="motivo">Porque devo ganhar?<br>
+      <textarea name="motivo" id="text-motivo" cols="30" rows="10" maxlength="500"></textarea>
+    </label><br>
+    <label for="input-date">Melhor data:
+      <input type="date" id="input-date">
+    </label><br>
+    <label for="check-oportunidades">
+      <input type="checkbox" name="oportunidades" id="check-oportunidades">Desejo receber outras oportunidades!
+    </label><br>
+    <label for="check-agree">
+      <input type="checkbox" name="foto-agree" id="check-agree">Concordo em permitir o uso da minha imagem!
+    </label><br>
+    <input type="submit" value="Enviar" id="button-send">
+    <button id="clear-button">Limpar formulário</button>
+  </form>
+  <script src="script.js"></script>
+</body>
+</html>
