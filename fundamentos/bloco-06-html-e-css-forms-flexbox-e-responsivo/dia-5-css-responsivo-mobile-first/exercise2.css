@@ -5,3 +5,37 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+@media screen and (max-width: 414px) {
+  body {
+    margin: 20px;
+  }
+
+  header > p {
+    font-size: 28px;
+    text-align: center;
+    font-weight: 600;
+  }
+
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  nav ul li {
+    line-height: 25px;
+  }
+
+  aside ul {
+    list-style-type: none;
+    padding-left: 10px;
+  }
+
+  footer {
+    margin-top: 50px;
+    font-size: 14px;
+  }
+}
