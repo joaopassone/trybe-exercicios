@@ -56,3 +56,32 @@ function verifyPair(object, key, value) {
       return true;
   return false;
 }
+
+function mathStudents(object) {
+  let sum = 0;
+  for (const lessons in object) {
+    if(verifyPair(object[lessons], 'materia', 'Matemática'))
+      sum += object[lessons].numeroEstudantes;
+  }
+  return sum;
+}
+
+function report(object, teacher) {
+  const report = {};
+  report.professor = teacher;
+
+  let numberOfStudents = 0;
+  const subjects = [];
+
+  for (const lessons in object) {
+    if(verifyPair(object[lessons], 'professor', teacher)) {
+      numberOfStudents += object[lessons].numeroEstudantes;
+      subjects.push(object[lessons].materia);
+    }
+  }
+
+  report.aulas = subjects;
+  report.estudantes = numberOfStudents;
+
+  return report;
+}
