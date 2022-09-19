@@ -56,17 +56,17 @@ Este repositório contará com todos os exercícios que forem executados por [@j
 #### Bloco 6 - HTML & CSS: Forms, Flexbox e Responsivo
 
 - [X] 6.1 - HTML & CSS - Forms
-- [ ] 6.2 - Bibliotecas JavaScript e FrameWorks CSS
-- [ ] 6.3 - Introdução - CSS Flexbox
-- [ ] 6.3 - CSS Flexbox - Parte 1
-- [ ] 6.4 - CSS Flexbox - Parte 2
-- [ ] 6.5 - CSS Responsivo - Mobile First
-- [ ] 6.6 - Projeto - Trybewarts
+- [X] 6.2 - Bibliotecas JavaScript e FrameWorks CSS
+- [X] 6.3 - Introdução - CSS Flexbox
+- [X] 6.3 - CSS Flexbox - Parte 1
+- [X] 6.4 - CSS Flexbox - Parte 2
+- [X] 6.5 - CSS Responsivo - Mobile First
+- [X] 6.6 - Projeto - Trybewarts
 
 #### Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários
 
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e templates literals
-- [ ] 7.2 - JavaScript ES6 - Fluxo de exceção e Objetos
+- [X] 7.1 - JavaScript ES6 - let, const, arrow functions e templates literals
+- [X] 7.2 - JavaScript ES6 - Fluxo de exceção e Objetos
 - [ ] 7.3 - Primeiros passos em Jest
 - [ ] 7.4 - Projeto - JavaScript Testes Unitários
 
