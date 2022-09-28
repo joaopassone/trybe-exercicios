@@ -9,7 +9,7 @@ const toObject = ([model, brand, year]) => {
     brand,
     year
   }
-}
+};
 
 console.log(toObject(palio));
 console.log(toObject(shelbyCobra));
