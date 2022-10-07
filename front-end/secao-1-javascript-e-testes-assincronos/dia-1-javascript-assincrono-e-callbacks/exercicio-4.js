@@ -14,6 +14,11 @@ const greet = (temperature) =>
   console.log(`Olá! Curiosity aqui. Nesse momento está ${temperature}ºC em Marte`);
 
 // Definição da função sendMarsTemperature...
+const sendMarsTemperature = (callback) => {
+  setTimeout(() => {
+    callback(getMarsTemperature());
+  }, messageDelay());
+}
 
 sendMarsTemperature(temperatureInFahrenheit); // Imprime "Atualmente está 46.4ºF em Marte", por exemplo
 
